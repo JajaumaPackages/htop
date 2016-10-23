@@ -1,0 +1,10 @@
+diff -uNr htop-2.0.2.orig/htop.desktop htop-2.0.2/htop.desktop
+--- htop-2.0.2.orig/htop.desktop	2016-10-23 12:50:12.617782079 +0300
++++ htop-2.0.2/htop.desktop	2016-10-23 12:51:10.644062539 +0300
+@@ -60,4 +60,4 @@
+ GenericName[tr]=Süreç Görüntüleyici
+ GenericName[uk]=Перегляд процесів
+ GenericName[zh_TW]=行程檢視器
+-Keywords=system;process;task
++Keywords=system;process;task;
+Binary files htop-2.0.2.orig/.htop.desktop.swp and htop-2.0.2/.htop.desktop.swp differ
